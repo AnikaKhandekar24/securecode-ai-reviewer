@@ -1,0 +1,27 @@
+{
+  "name": "build-project-10-securecode-ai",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "AI-assisted secure code review learning tool",
+  "dependencies": {
+    "next": "15.5.18",
+    "postcss": "8.5.10",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "zod": "^3.25.76"
+  },
+  "overrides": {
+    "postcss": "8.5.10"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^15.5.18"
+  }
+}
